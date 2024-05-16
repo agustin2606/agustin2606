@@ -1,15 +1,13 @@
 # Hello there 👋
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 
 class SoftwareEngineerStudent:
 
     def __init__(self):
         self.name = "Agustin Varela"
-        self.role = "Software Engineer"
+        self.role = "Software Engineer Student"
         self.language_spoken = ["es_ES", "en_US"]
 
     def say_hi(self):
