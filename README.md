@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h1>agustin varela</h1>
+  <h1>agustín.</h1>
   <p><em>curious by nature. obsessive by choice.</em></p>
 </div>
 
@@ -19,7 +19,7 @@
 
 ## things i've built
 
-...
+> *add yours here*
 
 <br/>
 
@@ -59,7 +59,7 @@ coffee    ████████████████████   non-neg
   <img src="https://img.shields.io/badge/let's%20connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="agustinvarela2606@gmail.com">
+<a href="mailto:agustinvarela2606@gmail.com">
   <img src="https://img.shields.io/badge/shoot%20me%20a%20mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
