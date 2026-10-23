@@ -1,6 +1,8 @@
 ### Hi, I'm Agustín
 
-Full-stack developer at [@mimiquate](https://github.com/mimiquate), finishing Software Engineering at ORT University. Lately I spend a lot of time making AI agents useful in real dev workflows.
+Software developer from Montevideo, Uruguay 🇺🇾
+
+I enjoy building things end to end, and lately I'm especially into agentic development: working alongside AI agents and shaping the workflows, tools and habits that make them genuinely useful. Always curious, always looking for a better way to build.
 
 <img src="https://skillicons.dev/icons?i=elixir,nodejs,ts,react,postgres,java,spring" alt="Elixir, Node.js, TypeScript, React, PostgreSQL, Java, Spring">
 
