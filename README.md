@@ -1,4 +1,4 @@
-### Hi, I'm Agustín 👋
+### Hi, I'm Agustín
 
 Full-stack developer at [@mimiquate](https://github.com/mimiquate), finishing Software Engineering at ORT University. Lately I spend a lot of time making AI agents useful in real dev workflows.
 
