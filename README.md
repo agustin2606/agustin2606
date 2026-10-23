@@ -2,7 +2,7 @@
 
 Software developer from Montevideo, Uruguay 🇺🇾
 
-I enjoy building things end to end, and lately I'm especially into agentic development: working alongside AI agents and shaping the workflows, tools and habits that make them genuinely useful. Always curious, always looking for a better way to build.
+I enjoy building things end to end, and what I love most is agentic development: working alongside AI agents and shaping the workflows, tools and habits that make them genuinely useful. Always curious, always looking for a better way to build.
 
 <img src="https://skillicons.dev/icons?i=elixir,nodejs,ts,react,postgres,java,spring" alt="Elixir, Node.js, TypeScript, React, PostgreSQL, Java, Spring">
 
