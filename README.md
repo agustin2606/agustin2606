@@ -17,9 +17,8 @@ I'm a Full-Stack Developer at Mimiquate, interested in building useful software 
 
 ### Tech I work with
 
-**Backend:** Elixir, Node.js  
-**Frontend:** React, JavaScript, TypeScript  
-**Data:** PostgreSQL, MongoDB, Redis  
+<img src="https://skillicons.dev/icons?i=elixir,nodejs,react,js,ts,postgres,mongodb,redis" alt="Elixir, Node.js, React, JavaScript, TypeScript, PostgreSQL, MongoDB, Redis">
+
 **AI:** Claude agent tooling, MCP integrations, custom skills and automated workflows
 
 ### A bit more about me
