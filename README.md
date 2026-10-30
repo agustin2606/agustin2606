@@ -13,6 +13,7 @@ I like building software that's actually useful. What I enjoy most is figuring o
 ### Open source
 
 - [beam-community/jsonapi#474](https://github.com/beam-community/jsonapi/pull/474) — Malformed requests were crashing the deserializer. Now they get a proper 400.
+- [stablyai/orca#28329](https://github.com/stablyai/orca/pull/28329) — Session search ignored the time zone in `--since`, so results could be off by up to 14 hours. Now any offset finds the same sessions.
 - [dashbitco/nimble_csv#93](https://github.com/dashbitco/nimble_csv/pull/93) — CI had been quietly dead for over a year. Brought it back.
 
 ### Tech I work with
