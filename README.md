@@ -15,6 +15,9 @@ I like building software that's actually useful. What I enjoy most is figuring o
 - [beam-community/jsonapi#474](https://github.com/beam-community/jsonapi/pull/474) — Malformed requests were crashing the deserializer. Now they get a proper 400.
 - [stablyai/orca#28329](https://github.com/stablyai/orca/pull/28329) — Session search ignored the time zone in `--since`, so results could be off by up to 14 hours. Now any offset finds the same sessions.
 - [stablyai/orca#37452](https://github.com/stablyai/orca/pull/37452) — When a branch had several PRs, Orca linked the newest one even if it was closed. Now it links the one that's still open.
+- [stablyai/orca#41066](https://github.com/stablyai/orca/pull/41066) — Once an HTML document preview had focus, Orca's own shortcuts stopped working. Now the preview hands them back.
+- [stablyai/orca#37939](https://github.com/stablyai/orca/pull/37939) — Plugin panels swallowed the sidebar and zoom shortcuts. Now they reach Orca.
+- [stablyai/orca#37965](https://github.com/stablyai/orca/pull/37965) — Claude plugin UI frames leaked into the chat transcript as raw messages. Now they stay out of it (co-authored).
 - [dashbitco/nimble_csv#93](https://github.com/dashbitco/nimble_csv/pull/93) — CI had been quietly dead for over a year. Brought it back.
 
 ### Tech I work with
