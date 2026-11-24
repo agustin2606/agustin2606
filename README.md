@@ -15,6 +15,7 @@ I like building software that's actually useful. What I enjoy most is figuring o
 - [beam-community/jsonapi#474](https://github.com/beam-community/jsonapi/pull/474) — Malformed requests were crashing the deserializer. Now they get a proper 400.
 - [joken-elixir/joken#458](https://github.com/joken-elixir/joken/pull/458) — A token whose `exp` wasn't a number never expired. Now non-numeric `exp` and `nbf` claims are rejected.
 - [absinthe-graphql/absinthe#1471](https://github.com/absinthe-graphql/absinthe/pull/1471) — Map scalar default values showed up in introspection as Elixir code (`%{}`), so GraphQL clients failed to load the schema. Now they're rendered as GraphQL literals.
+- [phoenixframework/phoenix#6912](https://github.com/phoenixframework/phoenix/pull/6912) — Path helpers and `~p` passed `"."` and `".."` params through, so the browser resolved the link to a different route. Now they raise.
 - [stablyai/orca#28329](https://github.com/stablyai/orca/pull/28329) — Session search ignored the time zone in `--since`, so results could be off by up to 14 hours. Now any offset finds the same sessions.
 - [stablyai/orca#37452](https://github.com/stablyai/orca/pull/37452) — When a branch had several PRs, Orca linked the newest one even if it was closed. Now it links the one that's still open.
 - [stablyai/orca#41066](https://github.com/stablyai/orca/pull/41066) — Once an HTML document preview had focus, Orca's own shortcuts stopped working. Now the preview hands them back.
